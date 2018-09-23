@@ -30,7 +30,9 @@ footer,
     margin: 0;
     padding-right: .2rem;
 
-    &:hover,
+    &:hover{
+		color: $blue;
+	},
     &:focus {
       opacity: .6;
     }

@@ -2,7 +2,7 @@
   padding: 3rem 0;
 
   &-info {
-    color: $default-tint;
+    color: $blue;
     font-family: $serif-secondary;
     letter-spacing: 0.5px;
     text-align: center;
@@ -13,8 +13,8 @@
   }
 
   &-title {
-    color: $default-shade;
-    font-family: $sans-serif;
+    color: $default-color;
+    font-family: $sans-primary;
     font-size: 4rem;
     margin: 1rem 0;
     text-align: center;

@@ -3,17 +3,21 @@ $default-color: #2f3542;
 $default-shade: #57606f;
 $default-tint: #a4b0be;
 $grey-1: #ced6e0;
-$grey-2: #dfe4ea;
+$grey-2: #2ed573;
 $grey-3: #f1f2f6;
 $white: #ffffff;
 $blue: #3742fa;
 $shadow-color: rgba(33, 33, 33, 1.0);
 $code-color: #ff4757;
 // Fonts
-$serif-primary: 'Noto Sans',sans-serif;
-$serif-secondary: 'ABeeZee', sans-serif;
-$sans-serif: 'Montserrat', sans-serif;
-$monospaced: 'Anonymous Pro', monospace;
+$serif-primary: 'Noto Sans',
+sans-serif;
+$serif-secondary: 'ABeeZee',
+sans-serif;
+$sans-serif: 'Montserrat',
+sans-serif;
+$monospaced: 'Anonymous Pro',
+monospace;
 @mixin box-sizing($type: border-box) {
     -webkit-box-sizing: $type;
     -moz-box-sizing: $type;
